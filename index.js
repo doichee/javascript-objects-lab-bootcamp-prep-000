@@ -1,1 +1,4 @@
-var recipes {};
+var recipes = {
+  flour: 'cup',
+  sugar: 'cups'
+};
